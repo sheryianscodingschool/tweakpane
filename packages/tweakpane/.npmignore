@@ -1,7 +1,0 @@
-.circleci/
-.nyc_output/
-docs/
-pages/
-test/
-
-.editorconfig
